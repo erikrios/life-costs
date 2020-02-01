@@ -15,8 +15,8 @@ int main()
     cout << "|                                           |" << endl;
     cout << "=============================================" << endl;
 
-    cout << "|           Nama : Hipzul Hilmi             |" << endl;
-    cout << "|           NIM  : TI15180007               |" << endl;
+    cout << "|           Nama : Erik Rio Setiawan        |" << endl;
+    cout << "|           NIM  : 185329168                |" << endl;
     cout << "=============================================" << endl;
 
     // Declare the variables
